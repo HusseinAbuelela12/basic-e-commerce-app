@@ -1,0 +1,12 @@
+function About () {
+    return (
+        <>
+        <div className="container">
+        <h1 className="mt-5 mb-5">Welcome !</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus odio laboriosam, tempora eum assumenda quis molestiae saepe neque eveniet consequuntur tenetur excepturi iste sapiente, dolores porro? Porro sequi modi unde nisi iure aliquid quae reiciendis officiis dolorum voluptatum velit, minus aperiam fugit alias ducimus? Distinctio, laborum in? Voluptate quod alias nesciunt a iste quia velit facilis mollitia inventore voluptatibus. Impedit tempora eaque iste nesciunt nulla id cum obcaecati harum ipsam accusamus aliquam suscipit fugit ut, veniam asperiores ex velit ab neque, quas error ipsum vero officia natus. Ad, est nostrum. Magnam libero nobis eius maxime magni, animi corrupti vel explicabo in non modi et nemo necessitatibus debitis esse amet voluptas placeat, dolore atque pariatur sunt rerum eveniet cum. Minima optio dolor placeat dicta excepturi adipisci blanditiis eum quas tenetur reprehenderit? Sapiente adipisci facilis, earum cupiditate tempora libero, pariatur praesentium necessitatibus, eveniet repudiandae eligendi obcaecati inventore ipsum ut mollitia nisi nihil suscipit ipsa quibusdam beatae assumenda aspernatur voluptatum. Aperiam est nemo fugiat facere explicabo eum repudiandae blanditiis, sunt beatae assumenda dolorem enim sequi. Suscipit, exercitationem quos eaque hic illum cumque atque. Ratione, impedit ex laboriosam dignissimos aut dolore atque odio, recusandae officiis, quod aperiam blanditiis amet eligendi quisquam ipsa maxime tempora magni voluptas ullam. Obcaecati recusandae ipsum laborum, placeat illo excepturi labore animi reprehenderit? Assumenda sit ipsa a alias reiciendis dignissimos sint nulla magnam iusto quam molestiae numquam ut porro ex id placeat tenetur, provident ab voluptatibus iste. Nostrum voluptatum maxime, veniam eveniet fuga obcaecati facere nemo. Deleniti repudiandae molestiae nobis numquam? Labore ad quibusdam officia culpa commodi odit officiis, eveniet possimus amet! Necessitatibus laudantium repellendus nam? Molestias, dicta? Praesentium quia culpa nulla voluptate quae eligendi, esse fuga ut voluptates aut similique possimus quod a. Ipsum numquam odit officia? Suscipit blanditiis nesciunt harum temporibus magnam voluptates, enim architecto totam assumenda a.</p>
+        </div>
+        </>
+    )
+}
+
+export default About;
